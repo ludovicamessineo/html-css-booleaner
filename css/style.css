@@ -13,10 +13,41 @@ header {
 
 .logo {
     width: 130px;  
-    background-position: bottom;
+}
+
+.container {
+    width: 98%;
+    margin: auto;
 }
 
 .introduzione {
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+.blue-text {
+    color:rgb(68, 162, 240)
+}
+
+p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+table {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: rgb(78, 155, 228);
+}
+
+.light-blue {
+    background-color: lightblue;
+}
+
+.bg-yellow {
+    background-color: yellow;
 }
