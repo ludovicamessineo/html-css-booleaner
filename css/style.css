@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: rgb(68, 162, 240);
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-size: 200px;
+    height: 50px;
+}
+
+.logo {
+    width: 130px;  
+    background-position: bottom;
+}
+
+.introduzione {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
